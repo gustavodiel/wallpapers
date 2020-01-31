@@ -5,7 +5,116 @@
 If you have any wallpaper that you want to share, please send a PR!
 Always remember to try and check the source and update the README ;)
 
+
+## Phone
+
+<details><summary>Phone Wallpapers</summary>
+<p>
+
+### Cat (1) (unkown source)
+
+![Cat (1)](phone/cat-phone.png)
+
+### Cat (2) (unkown source)
+
+![Cat (2)](phone/cato-phone.png)
+
+### CuteApple (unkown source)
+
+![CuteApple](phone/cuteapple-phone.png)
+
+### [Mewna](https://www.deviantart.com/cookieskoon/art/Mewna-825706471) by [CookieSkoon](https://www.deviantart.com/cookieskoon)
+
+![Mewna](phone/mewna-phone.png)
+
+### Rose Mountains by [gustavodiel](https://github.com/gustavodiel)
+
+![Rose Mountains](phone/mountains-rose.png)
+
+### Mountains by [gustavodiel](https://github.com/gustavodiel)
+
+![Mountains](phone/mountains.png)
+
+</p>
+</details>
+
+
+
+
+## Square
+
+<details><summary>Square</summary>
+<p>
+
+### Waves Reflection by [Huawei](https://www.droidviews.com/huawei-mediapad-m6-wallpapers/)
+
+![Waves Reflection](square/neon-3200x2560-waves-reflection-huawei-mediapad-m6-stock-hd-18585.jpg)
+
+### Neon Circle  by [Huawei](https://www.droidviews.com/huawei-mediapad-m6-wallpapers/)
+
+![Neon Circle](square/sci-fi-3200x2560-neon-circle-reflection-huawei-mediapad-m6-stock-hd-18591.jpg)
+
+### Galaxy S20 (1) [Download](https://www.idownloadblog.com/2020/01/19/samsung-galaxy-s20-wallpaper-iphone-mods/)
+
+![Galaxy S20 (1)](square/Galaxy_S20_Wallpapers_1.png)
+
+### Galaxy S20 (2) [Download](https://www.idownloadblog.com/2020/01/19/samsung-galaxy-s20-wallpaper-iphone-mods/)
+
+![Galaxy S20 (2)](square/Galaxy_S20_Wallpapers_2.png)
+
+### Galaxy S20 (3) [Download](https://www.idownloadblog.com/2020/01/19/samsung-galaxy-s20-wallpaper-iphone-mods/)
+
+![Galaxy S20 (3)](square/Galaxy_S20_Wallpapers_3.png)
+
+### Galaxy S20 (4) [Download](https://www.idownloadblog.com/2020/01/19/samsung-galaxy-s20-wallpaper-iphone-mods/)
+
+![Galaxy S20 (4)](square/Galaxy_S20_Wallpapers_4.png)
+
+### Galaxy S20 (5) [Download](https://www.idownloadblog.com/2020/01/19/samsung-galaxy-s20-wallpaper-iphone-mods/)
+
+![Galaxy S20 (5)](square/Galaxy_S20_Wallpapers_5.png)
+
+### Galaxy S20 (6) [Download](https://www.idownloadblog.com/2020/01/19/samsung-galaxy-s20-wallpaper-iphone-mods/)
+
+![Galaxy S20 (6)](square/Galaxy_S20_Wallpapers_6.png)
+
+### Galaxy S20 (7) [Download](https://www.idownloadblog.com/2020/01/19/samsung-galaxy-s20-wallpaper-iphone-mods/)
+
+![Galaxy S20 (7)](square/Galaxy_S20_Wallpapers_7.png)
+
+### Galaxy S20 (8) [Download](https://www.idownloadblog.com/2020/01/19/samsung-galaxy-s20-wallpaper-iphone-mods/)
+
+![Galaxy S20 (8)](square/Galaxy_S20_Wallpapers_8.png)
+
+</p>
+</details>
+
+
+
+
+## Ultra-Widescreen
+
+<details><summary>Ultra Wide Wallpapers</summary>
+<p>
+
+### Inner Leaflet by [Ponies at Dawn - Anthology](https://poniesatdawn.bandcamp.com/album/anthology)
+
+![Inner Leaflet](ultra-widescreen/Ponies_at_Dawn_Anthology_PD_Inner_Leaflet_Artwork_by_Shamanguli.png)
+
+### Outer Leaflet by [Ponies at Dawn - Anthology](https://poniesatdawn.bandcamp.com/album/anthology)
+
+![Outer Leaflet](ultra-widescreen/Ponies_at_Dawn_Anthology_PD_Outer_Leaflet_Artwork_by_Shamanguli.png)
+
+</p>
+</details>
+
+
+
+
 ## Widescreen
+
+<details><summary>Widescreen Wallpapers</summary>
+<p>
 
 ### [A Ponyville Night](https://www.deviantart.com/stinkehund/art/A-Ponyville-Night-274936532) by [Stinkehund](https://www.deviantart.com/stinkehund)
 
@@ -55,38 +164,6 @@ Always remember to try and check the source and update the README ;)
 
 ![Firewatch (4)](widescreen/firewatch-5120x2880-adventure-569.jpg)
 
-### Galaxy S20 (1) [Download](https://www.idownloadblog.com/2020/01/19/samsung-galaxy-s20-wallpaper-iphone-mods/)
-
-![Galaxy S20 (1)](widescreen/Galaxy_S20_Wallpapers_1.png)
-
-### Galaxy S20 (2) [Download](https://www.idownloadblog.com/2020/01/19/samsung-galaxy-s20-wallpaper-iphone-mods/)
-
-![Galaxy S20 (2)](widescreen/Galaxy_S20_Wallpapers_2.png)
-
-### Galaxy S20 (3) [Download](https://www.idownloadblog.com/2020/01/19/samsung-galaxy-s20-wallpaper-iphone-mods/)
-
-![Galaxy S20 (3)](widescreen/Galaxy_S20_Wallpapers_3.png)
-
-### Galaxy S20 (4) [Download](https://www.idownloadblog.com/2020/01/19/samsung-galaxy-s20-wallpaper-iphone-mods/)
-
-![Galaxy S20 (4)](widescreen/Galaxy_S20_Wallpapers_4.png)
-
-### Galaxy S20 (5) [Download](https://www.idownloadblog.com/2020/01/19/samsung-galaxy-s20-wallpaper-iphone-mods/)
-
-![Galaxy S20 (5)](widescreen/Galaxy_S20_Wallpapers_5.png)
-
-### Galaxy S20 (6) [Download](https://www.idownloadblog.com/2020/01/19/samsung-galaxy-s20-wallpaper-iphone-mods/)
-
-![Galaxy S20 (6)](widescreen/Galaxy_S20_Wallpapers_6.png)
-
-### Galaxy S20 (7) [Download](https://www.idownloadblog.com/2020/01/19/samsung-galaxy-s20-wallpaper-iphone-mods/)
-
-![Galaxy S20 (7)](widescreen/Galaxy_S20_Wallpapers_7.png)
-
-### Galaxy S20 (8) [Download](https://www.idownloadblog.com/2020/01/19/samsung-galaxy-s20-wallpaper-iphone-mods/)
-
-![Galaxy S20 (8)](widescreen/Galaxy_S20_Wallpapers_8.png)
-
 ### Neon Sunset Mountain (unkown source)
 
 ![Neon Sunset Mountain](widescreen/landscape-3840x2160-neon-sun-sunset-mountain-retrowave-art-4k-18662.jpg)
@@ -103,10 +180,6 @@ Always remember to try and check the source and update the README ;)
 
 ![Mountains](widescreen/mountains-5120x3200-reflections-minimal-render-digital-composition-5k-17944.jpg)
 
-### Waves Reflection by [Huawei](https://www.droidviews.com/huawei-mediapad-m6-wallpapers/)
-
-![Waves Reflection](widescreen/neon-3200x2560-waves-reflection-huawei-mediapad-m6-stock-hd-18585.jpg)
-
 ### [Mewna](https://www.deviantart.com/cookieskoon/art/Mewna-825706471) by [CookieSkoon](https://www.deviantart.com/cookieskoon)
 
 ![Mewna](widescreen/nyan_luna.png)
@@ -114,14 +187,6 @@ Always remember to try and check the source and update the README ;)
 ### Abstract Colorful Gradients (unkown source)
 
 ![Abstract Colorful Gradients](widescreen/oneplus-7-pro-4257x2160-abstract-colorful-gradients-stock-4k-18251.jpg)
-
-### Inner Leaflet by [Ponies at Dawn - Anthology](https://poniesatdawn.bandcamp.com/album/anthology)
-
-![Inner Leaflet](widescreen/Ponies_at_Dawn_Anthology_PD_Inner_Leaflet_Artwork_by_Shamanguli.png)
-
-### Outer Leaflet by [Ponies at Dawn - Anthology](https://poniesatdawn.bandcamp.com/album/anthology)
-
-![Outer Leaflet](widescreen/Ponies_at_Dawn_Anthology_PD_Outer_Leaflet_Artwork_by_Shamanguli.png)
 
 ### Hold Your Rainbow by [Ponies at Dawn - Hold your Rainbow](https://poniesatdawn.bandcamp.com/album/hold-your-rainbow)
 
@@ -151,10 +216,6 @@ Always remember to try and check the source and update the README ;)
 
 ![Rainbow](widescreen/Rinbow.png)
 
-### Neon Circle  by [Huawei](https://www.droidviews.com/huawei-mediapad-m6-wallpapers/)
-
-![Neon Circle](widescreen/sci-fi-3200x2560-neon-circle-reflection-huawei-mediapad-m6-stock-hd-18591.jpg)
-
 ### [Small Memory](https://dribbble.com/shots/3713646-Small-Memory) by [Mikael Gustafsson](https://dribbble.com/MikaelGustafsson)
 
 ![Small Memory](widescreen/small_memory.png)
@@ -182,3 +243,6 @@ Always remember to try and check the source and update the README ;)
 ### Mountains by [gustavodiel](https://github.com/gustavodiel)
 
 ![Mountains](widescreen/wpp1.png)
+
+</p>
+</details>
