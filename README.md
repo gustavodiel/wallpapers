@@ -1,5 +1,10 @@
 # Wallpapers
 
+## Contribute
+
+If you have any wallpaper that you want to share, please send a PR!
+Always remember to try and check the source and update the README ;)
+
 ## Widescreen
 
 ### [A Ponyville Night](https://www.deviantart.com/stinkehund/art/A-Ponyville-Night-274936532) by [Stinkehund](https://www.deviantart.com/stinkehund)
@@ -142,7 +147,7 @@
 
 ![Sun Mountains](widescreen/retro-5120x2880-sun-mountains-neon-landscape-5k-18667.jpg)
 
-### Rainbow by Me :D
+### Rainbow by [gustavodiel](https://github.com/gustavodiel)
 
 ![Rainbow](widescreen/Rinbow.png)
 
@@ -166,7 +171,7 @@
 
 ![The Mandalorian](widescreen/the-mandalorian-5120x2881-minimal-art-4k-5k-19572.jpg)
 
-### Under the Weeping Moon (unkown source)
+### [Under the Weeping Moon](https://www.deviantart.com/rain-gear/art/Under-The-Weeping-Moon-381572283) by [Rain-Gear](https://www.deviantart.com/rain-gear)
 
 ![Under thw Weeping Moon](widescreen/under_the_weeping_moon_by_rain_gear_d6b6f23.png)
 
@@ -174,6 +179,6 @@
 
 ![Unidentified Flying Dash](widescreen/unidentified_flying_dash_by_machinimator-d58zq6b.png)
 
-### Mountains by Me :D
+### Mountains by [gustavodiel](https://github.com/gustavodiel)
 
 ![Mountains](widescreen/wpp1.png)
