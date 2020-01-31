@@ -8,7 +8,7 @@ Why?
 
 ## Contributing
 
-All wallappers are welcome (except NSFW :eyes:)! Always remember to try and check the source and update the README ;) 
+All wallppers are welcome (except NSFW :eyes:)! Always remember to try and check the source and update the README ;) 
 
 Also, when you place your images, run `python create_missing_yml.py` (requires Pillow) and fill in the information on the generated files. After that, run `python create_readme.py` (requires pyyaml) and commit. 
 
