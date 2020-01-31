@@ -25,7 +25,7 @@ def write_title(file, name, source, author, author_page):
     file.write("### {}\n".format(full_title))
 
 
-def write_image(file, root, filename):
+def write_image(file, root, filename, local=False):
     full_path = "{}/{}".format(root, filename)
     with open(full_path) as yml_file:
         content = yaml.load(yml_file, Loader=yaml.FullLoader)
@@ -35,6 +35,8 @@ def write_image(file, root, filename):
         author_page = content['author_page']
         image_path = content['image_path']
         info = content['info']
+        if local:
+            image_path = image_path.split('/')[-1]
         write_title(file, name, source, author, author_page)
         file.write("![{}]({})\n".format(name, image_path))
         if info:
@@ -50,7 +52,7 @@ def write_root_content(file, root, title, images, collapse=True):
 <p>\n\n""".format(title))
 
     for image in images:
-        write_image(file, root, image)
+        write_image(file, root, image, local=not collapse)
 
     if collapse:
         file.write("""
