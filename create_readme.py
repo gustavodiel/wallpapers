@@ -46,7 +46,7 @@ def write_image(file, root, filename, local=False):
 
 def write_root_content(file, root, title, images, collapse=True):
     if collapse:
-        file.write("## {}\n".format(title))
+        file.write("## [{}]({})\n".format(title, root))
         file.write("""
 <details><summary>{} Wallpapers</summary>
 <p>\n\n""".format(title))

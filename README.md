@@ -14,7 +14,7 @@ Also, when you place your images, run `python create_missing_yml.py` (requires P
 
 Also also, if you know the source of any wallpaper, please enlighten us!
 
-## Phone
+## [Phone](./phone)
 
 <details><summary>Phone Wallpapers</summary>
 <p>
@@ -60,7 +60,7 @@ Format: png
 </details>
 
 
-## Square
+## [Square](./square)
 
 <details><summary>Square Wallpapers</summary>
 <p>
@@ -130,7 +130,7 @@ Format: jpg
 </details>
 
 
-## Ultra-Widescreen
+## [Ultra-Widescreen](./ultra-widescreen)
 
 <details><summary>Ultra-Widescreen Wallpapers</summary>
 <p>
@@ -152,7 +152,7 @@ Format: png
 </details>
 
 
-## Widescreen
+## [Widescreen](./widescreen)
 
 <details><summary>Widescreen Wallpapers</summary>
 <p>
