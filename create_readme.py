@@ -1,6 +1,10 @@
 import yaml
 import os
 
+abspath = os.path.abspath(__file__)
+dname = os.path.dirname(abspath)
+os.chdir(dname)
+
 
 def invalid_root(root):
     return '.git' in root or root == '.'
