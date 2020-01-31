@@ -43,7 +43,7 @@ Always remember to try and check the source and update the README ;)
 
 ## Square
 
-<details><summary>Square</summary>
+<details><summary>Square wallpapers</summary>
 <p>
 
 ### Waves Reflection by [Huawei](https://www.droidviews.com/huawei-mediapad-m6-wallpapers/)
