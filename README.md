@@ -14,6 +14,10 @@ Also, when you place your images, run `python create_missing_yml.py` (requires P
 
 Also also, if you know the source of any wallpaper, please enlighten us!
 
+## Automations
+
+![Python application](https://github.com/gustavodiel/wallpapers/workflows/Python%20application/badge.svg)
+
 ## [Phone](./phone)
 
 <details><summary>Phone Wallpapers</summary>

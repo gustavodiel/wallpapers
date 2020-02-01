@@ -2,6 +2,9 @@ title: Wallpapers
 filename: README.md
 description: "Just a rather overengineered wallpaper repository :) \n\nWhy? \n\n**R:** Why not? Also, I was bored"
 sections:
+    automations:
+        title: Automations
+        info: "![Python application](https://github.com/gustavodiel/wallpapers/workflows/Python%20application/badge.svg)"
     contribute:
         title: Contributing
         info: "All wallppers are welcome (except NSFW :eyes:)! Always remember to try and check the source and update the README ;)
