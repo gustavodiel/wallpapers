@@ -16,7 +16,7 @@ Also also, if you know the source of any wallpaper, please enlighten us!
 
 ## Automations
 
-![Python application](https://github.com/gustavodiel/wallpapers/workflows/Python%20application/badge.svg)
+![Update all README.md](https://github.com/gustavodiel/wallpapers/workflows/Update%20all%20README.md/badge.svg)
 
 ## [Phone](./phone)
 

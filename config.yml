@@ -4,7 +4,7 @@ description: "Just a rather overengineered wallpaper repository :) \n\nWhy? \n\n
 sections:
     automations:
         title: Automations
-        info: "![Python application](https://github.com/gustavodiel/wallpapers/workflows/Python%20application/badge.svg)"
+        info: "![Update all README.md](https://github.com/gustavodiel/wallpapers/workflows/Update%20all%20README.md/badge.svg)"
     contribute:
         title: Contributing
         info: "All wallppers are welcome (except NSFW :eyes:)! Always remember to try and check the source and update the README ;)

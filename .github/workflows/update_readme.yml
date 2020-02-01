@@ -19,4 +19,4 @@ jobs:
         pip install -r requirements.txt
     - name: Update READMEs
       run: |
-        python create_readme.md
+        python create_readme.py
