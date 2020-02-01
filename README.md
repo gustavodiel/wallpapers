@@ -6,6 +6,10 @@ Why?
 
 **R:** Why not? Also, I was bored
 
+## Automations
+
+![Update all README.md](https://github.com/gustavodiel/wallpapers/workflows/Update%20all%20README.md/badge.svg)
+
 ## Contributing
 
 All wallppers are welcome (except NSFW :eyes:)! Always remember to try and check the source and update the README ;) 
@@ -13,10 +17,6 @@ All wallppers are welcome (except NSFW :eyes:)! Always remember to try and check
 Also, when you place your images, run `python create_missing_yml.py` (requires Pillow) and fill in the information on the generated files. After that, run `python create_readme.py` (requires pyyaml) and commit. 
 
 Also also, if you know the source of any wallpaper, please enlighten us!
-
-## Automations
-
-![Update all README.md](https://github.com/gustavodiel/wallpapers/workflows/Update%20all%20README.md/badge.svg)
 
 ## [Phone](./phone)
 
