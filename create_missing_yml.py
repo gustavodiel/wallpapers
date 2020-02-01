@@ -31,7 +31,7 @@ info: \"{}\"""".format(original_file, original_file[2:], default_info(original_f
 
 
 def invalid_root(root):
-  return '.git' in root or root == '.'
+  return '.git' in root or root == '.' or '.idea' in root or '.cache' in root
 
 
 def ignore_file(file):
