@@ -111,8 +111,8 @@ def write_images_to_file(file, folder):
 
         for filename in files:
             if ignore_file(filename): continue
-            images[root].append(filename.lower())
-        images[root].sort()
+            images[root].append(filename)
+        images[root].sort(key=str.lower)
     for root in sorted(images.keys()):
         process_root(file, root, images[root])
 
