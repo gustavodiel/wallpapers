@@ -125,7 +125,7 @@ with open('config.yml') as config:
         file.write("# {}\n\n".format(configurations['title']))
         file.write("{}\n\n".format(configurations['description']))
 
-        for section_name in configurations['sections']:
+        for section_name in sorted(configurations['sections']):
             section = configurations['sections'][section_name]
 
             file.write("## {}\n\n".format(section['title']))
