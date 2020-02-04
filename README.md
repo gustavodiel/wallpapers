@@ -14,9 +14,15 @@ Why?
 
 All wallppers are welcome (except NSFW :eyes:)! Always remember to try and check the source and update the README ;) 
 
-Also, when you place your images, run `python create_missing_yml.py` (requires Pillow) and fill in the information on the generated files. After that, run `python create_readme.py` (requires pyyaml) and commit. 
+Also, if you know the source of any wallpaper, please enlighten us!
 
-Also also, if you know the source of any wallpaper, please enlighten us!
+## Usage
+
+Adding a new wallpaper:
+ - Place your image (preferably .png or .jpg) inside the correct folder, based on it's aspect ratio (or create a new one if it makes sense)
+ - Run `python create_missing_yml.py` (see [requirements.txt](requirements.txt)]) and fill in the information on the generated files
+ - (optional) Run `python create_readme.py` in order to see the final rendered Readme. This is optional because this repo includes a Github action that automatically runs this script
+ - - This script will also generate a thumbnail image so that the front page is faster to load
 
 ## [Phone](./phone)
 
