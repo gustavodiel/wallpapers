@@ -53,6 +53,12 @@ Size: (1242 x 2688)
 
 Format: png
 
+### ./phone/gradient_pink_blue_black.jpeg (unkown source)
+[![./phone/gradient_pink_blue_black.jpeg](phone/.cache/gradient_pink_blue_black.jpeg)](phone/gradient_pink_blue_black.jpeg)
+Size: (1242 x 2688)
+
+Format: jpeg
+
 ### [Mewna](https://www.deviantart.com/cookieskoon/art/Mewna-825706471) by [CookieSkoon](https://www.deviantart.com/cookieskoon)
 [![Mewna](phone/.cache/mewna-phone.png)](phone/mewna-phone.png)
 Size: (1242 x 2688)
