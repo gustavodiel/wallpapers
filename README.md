@@ -65,6 +65,12 @@ Size: (1242 x 2688)
 
 Format: png
 
+### ./phone/mist_yellow_pink.jpeg (unkown source)
+[![./phone/mist_yellow_pink.jpeg](phone/.cache/mist_yellow_pink.jpeg)](phone/mist_yellow_pink.jpeg)
+Size: (1242 x 2688)
+
+Format: jpeg
+
 ### Rose Mountains by [gustavodiel](https://github.com/gustavodiel)
 [![Rose Mountains](phone/.cache/mountains-rose.png)](phone/mountains-rose.png)
 Size: (3233 x 7000)
