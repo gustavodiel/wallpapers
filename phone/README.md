@@ -1,5 +1,53 @@
 # Phone
 
+### [iPhone 12 Pro 1](Apple.com) by Apple
+[![iPhone 12 Pro 1](.cache/Apple iPhone 12 Pro wallpapers 1.jpg)](Apple iPhone 12 Pro wallpapers 1.jpg)
+Size: (1404 x 3040)
+
+Format: jpg
+
+### [iPhone 12 Pro 2](Apple.com) by Apple
+[![iPhone 12 Pro 2](.cache/Apple iPhone 12 Pro wallpapers 2.jpg)](Apple iPhone 12 Pro wallpapers 2.jpg)
+Size: (1404 x 3040)
+
+Format: jpg
+
+### [iPhone 12 Pro 3](Apple.com) by Apple
+[![iPhone 12 Pro 3](.cache/Apple iPhone 12 Pro wallpapers 3.jpg)](Apple iPhone 12 Pro wallpapers 3.jpg)
+Size: (1404 x 3040)
+
+Format: jpg
+
+### [iPhone 12 Pro 4](Apple.com) by Apple
+[![iPhone 12 Pro 4](.cache/Apple iPhone 12 Pro wallpapers 4.jpg)](Apple iPhone 12 Pro wallpapers 4.jpg)
+Size: (1404 x 3040)
+
+Format: jpg
+
+### [iPhone 12 Pro 5](Apple.com) by Apple
+[![iPhone 12 Pro 5](.cache/Apple iPhone 12 Pro wallpapers 5.jpg)](Apple iPhone 12 Pro wallpapers 5.jpg)
+Size: (1404 x 3040)
+
+Format: jpg
+
+### [iPhone 12 Pro 6](Apple.com) by Apple
+[![iPhone 12 Pro 6](.cache/Apple iPhone 12 Pro wallpapers 6.jpg)](Apple iPhone 12 Pro wallpapers 6.jpg)
+Size: (1404 x 3040)
+
+Format: jpg
+
+### [iPhone 12 Pro 7](Apple.com) by Apple
+[![iPhone 12 Pro 7](.cache/Apple iPhone 12 Pro wallpapers 7.jpg)](Apple iPhone 12 Pro wallpapers 7.jpg)
+Size: (1404 x 3040)
+
+Format: jpg
+
+### [iPhone 12 Pro 8](Apple.com) by Apple
+[![iPhone 12 Pro 8](.cache/Apple iPhone 12 Pro wallpapers 8.jpg)](Apple iPhone 12 Pro wallpapers 8.jpg)
+Size: (1404 x 3040)
+
+Format: jpg
+
 ### ./phone/blue_waves.jpeg (unkown source)
 [![./phone/blue_waves.jpeg](.cache/blue_waves.jpeg)](blue_waves.jpeg)
 Size: (996 x 2048)
@@ -24,11 +72,23 @@ Size: (1242 x 2688)
 
 Format: png
 
+### ./phone/gradient_pink_blue_black.jpeg (unkown source)
+[![./phone/gradient_pink_blue_black.jpeg](.cache/gradient_pink_blue_black.jpeg)](gradient_pink_blue_black.jpeg)
+Size: (1242 x 2688)
+
+Format: jpeg
+
 ### [Mewna](https://www.deviantart.com/cookieskoon/art/Mewna-825706471) by [CookieSkoon](https://www.deviantart.com/cookieskoon)
 [![Mewna](.cache/mewna-phone.png)](mewna-phone.png)
 Size: (1242 x 2688)
 
 Format: png
+
+### ./phone/mist_yellow_pink.jpeg (unkown source)
+[![./phone/mist_yellow_pink.jpeg](.cache/mist_yellow_pink.jpeg)](mist_yellow_pink.jpeg)
+Size: (1242 x 2688)
+
+Format: jpeg
 
 ### Rose Mountains by [gustavodiel](https://github.com/gustavodiel)
 [![Rose Mountains](.cache/mountains-rose.png)](mountains-rose.png)
