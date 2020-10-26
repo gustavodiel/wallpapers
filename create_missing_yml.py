@@ -35,7 +35,7 @@ def invalid_root(root):
 
 
 def ignore_file(file):
-  return file == '.DS_Store' or '.yml' in file
+  return file == '.DS_Store' or '.yml' in file or '.md' in file
 
 
 def process_images(folder):
