@@ -29,6 +29,54 @@ Adding a new wallpaper:
 <details><summary>Phone Wallpapers</summary>
 <p>
 
+### [iPhone 12 Pro 1](Apple.com) by Apple
+[![iPhone 12 Pro 1](phone/.cache/Apple iPhone 12 Pro wallpapers 1.jpg)](phone/Apple iPhone 12 Pro wallpapers 1.jpg)
+Size: (1404 x 3040)
+
+Format: jpg
+
+### [iPhone 12 Pro 2](Apple.com) by Apple
+[![iPhone 12 Pro 2](phone/.cache/Apple iPhone 12 Pro wallpapers 2.jpg)](phone/Apple iPhone 12 Pro wallpapers 2.jpg)
+Size: (1404 x 3040)
+
+Format: jpg
+
+### [iPhone 12 Pro 3](Apple.com) by Apple
+[![iPhone 12 Pro 3](phone/.cache/Apple iPhone 12 Pro wallpapers 3.jpg)](phone/Apple iPhone 12 Pro wallpapers 3.jpg)
+Size: (1404 x 3040)
+
+Format: jpg
+
+### [iPhone 12 Pro 4](Apple.com) by Apple
+[![iPhone 12 Pro 4](phone/.cache/Apple iPhone 12 Pro wallpapers 4.jpg)](phone/Apple iPhone 12 Pro wallpapers 4.jpg)
+Size: (1404 x 3040)
+
+Format: jpg
+
+### [iPhone 12 Pro 5](Apple.com) by Apple
+[![iPhone 12 Pro 5](phone/.cache/Apple iPhone 12 Pro wallpapers 5.jpg)](phone/Apple iPhone 12 Pro wallpapers 5.jpg)
+Size: (1404 x 3040)
+
+Format: jpg
+
+### [iPhone 12 Pro 6](Apple.com) by Apple
+[![iPhone 12 Pro 6](phone/.cache/Apple iPhone 12 Pro wallpapers 6.jpg)](phone/Apple iPhone 12 Pro wallpapers 6.jpg)
+Size: (1404 x 3040)
+
+Format: jpg
+
+### [iPhone 12 Pro 7](Apple.com) by Apple
+[![iPhone 12 Pro 7](phone/.cache/Apple iPhone 12 Pro wallpapers 7.jpg)](phone/Apple iPhone 12 Pro wallpapers 7.jpg)
+Size: (1404 x 3040)
+
+Format: jpg
+
+### [iPhone 12 Pro 8](Apple.com) by Apple
+[![iPhone 12 Pro 8](phone/.cache/Apple iPhone 12 Pro wallpapers 8.jpg)](phone/Apple iPhone 12 Pro wallpapers 8.jpg)
+Size: (1404 x 3040)
+
+Format: jpg
+
 ### ./phone/blue_waves.jpeg (unkown source)
 [![./phone/blue_waves.jpeg](phone/.cache/blue_waves.jpeg)](phone/blue_waves.jpeg)
 Size: (996 x 2048)
