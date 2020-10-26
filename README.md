@@ -29,6 +29,12 @@ Adding a new wallpaper:
 <details><summary>Phone Wallpapers</summary>
 <p>
 
+### ./phone/blue_waves.jpeg (unkown source)
+[![./phone/blue_waves.jpeg](phone/.cache/blue_waves.jpeg)](phone/blue_waves.jpeg)
+Size: (996 x 2048)
+
+Format: jpeg
+
 ### Cat (1) (unkown source)
 [![Cat (1)](phone/.cache/cat-phone.png)](phone/cat-phone.png)
 Size: (1242 x 2688)

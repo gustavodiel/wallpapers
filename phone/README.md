@@ -1,5 +1,11 @@
 # Phone
 
+### ./phone/blue_waves.jpeg (unkown source)
+[![./phone/blue_waves.jpeg](.cache/blue_waves.jpeg)](blue_waves.jpeg)
+Size: (996 x 2048)
+
+Format: jpeg
+
 ### Cat (1) (unkown source)
 [![Cat (1)](.cache/cat-phone.png)](cat-phone.png)
 Size: (1242 x 2688)
