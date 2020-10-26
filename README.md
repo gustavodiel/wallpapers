@@ -53,6 +53,12 @@ Size: (1242 x 2688)
 
 Format: png
 
+### ./phone/gradient_pink_blue_black.jpeg (unkown source)
+[![./phone/gradient_pink_blue_black.jpeg](phone/.cache/gradient_pink_blue_black.jpeg)](phone/gradient_pink_blue_black.jpeg)
+Size: (1242 x 2688)
+
+Format: jpeg
+
 ### [Crescent moon in the night sky in 2020](https://www.myfavwallpaper.com/2020/01/crescent-moon-in-night-sky.html) (unkown source)
 [![Crescent moon in the night sky in 2020](phone/.cache/mattia-lau-background-160-1.jpg)](phone/mattia-lau-background-160-1.jpg)
 Size: (1440 x 2560)
@@ -65,6 +71,12 @@ Size: (1242 x 2688)
 
 Format: png
 
+### ./phone/mist_yellow_pink.jpeg (unkown source)
+[![./phone/mist_yellow_pink.jpeg](phone/.cache/mist_yellow_pink.jpeg)](phone/mist_yellow_pink.jpeg)
+Size: (1242 x 2688)
+
+Format: jpeg
+
 ### Rose Mountains by [gustavodiel](https://github.com/gustavodiel)
 [![Rose Mountains](phone/.cache/mountains-rose.png)](phone/mountains-rose.png)
 Size: (3233 x 7000)
@@ -76,6 +88,16 @@ Format: png
 Size: (3233 x 7000)
 
 Format: png
+
+
+</p>
+</details>
+
+
+## [Phone](./phone/iphone_12_pro)
+
+<details><summary>Phone Wallpapers</summary>
+<p>
 
 
 </p>
