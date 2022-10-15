@@ -19,21 +19,21 @@ def ignore_file(file):
 def write_title(file, name, source, author, author_page):
     full_title = name
     if source:
-        full_title = "[{}]({})".format(full_title, source)
+        full_title = f"[{full_title}]({source})"
     if author:
         if author_page:
-            full_title = "{} by [{}]({})".format(full_title, author, author_page)
+            full_title = f"{full_title} by [{author}]({author_page})"
         else:
-            full_title = "{} by {}".format(full_title, author)
+            full_title = f"{full_title} by {author}"
     else:
-        full_title = "{} (unkown source)".format(full_title)
+        full_title = f"{full_title} (unkown source)"
 
-    file.write("### {}\n".format(full_title))
+    file.write(f"### {full_title}\n")
 
 
 def cached_image_path(path):
     root, filename = path.split('/')
-    cache_path = "{}/.cache/{}".format(root, filename)
+    cache_path = f"{root}/.cache/{filename}"
     if os.path.isfile(cache_path):
         return cache_path
     thumbnail_size = 512, 512
@@ -44,7 +44,7 @@ def cached_image_path(path):
 
 
 def write_image(file, root, filename, local=False):
-    full_path = "{}/{}".format(root, filename)
+    full_path = f"{root}/{filename}"
     with open(full_path) as yml_file:
         content = yaml.load(yml_file, Loader=yaml.FullLoader)
         name = content['name'].strip()
@@ -58,15 +58,15 @@ def write_image(file, root, filename, local=False):
             image_path = '/'.join(image_path.split('/')[1:])
             original_image_path = '/'.join(original_image_path.split('/')[1:])
         write_title(file, name, source, author, author_page)
-        file.write("[![{}]({})]({})\n".format(name, image_path, original_image_path))
+        file.write(f"[![{name}]({image_path})]({original_image_path})\n")
         if info:
-            file.write("{}\n".format(info))
+            file.write(f"{info}\n")
         file.write("\n")
 
 
 def write_root_content(file, root, title, images, collapse=True):
     if collapse:
-        file.write("## [{}]({})\n".format(title, root))
+        file.write(f"## [{title}]({root})\n")
         file.write("""
 <details><summary>{} Wallpapers</summary>
 <p>\n\n""".format(title))
@@ -81,7 +81,7 @@ def write_root_content(file, root, title, images, collapse=True):
 
 
 def cache_path_for_path(root):
-    return "{}/.cache".format(root)
+    return f"{root}/.cache"
 
 
 def create_cache_folder(path):
@@ -91,14 +91,14 @@ def create_cache_folder(path):
 
 
 def process_root(file, root, images):
-    print("Processing {}".format(root))
+    print(f"Processing {root}")
     create_cache_folder(root)
     title = root.split('/')[1].title()
     write_root_content(file, root, title, images)
 
-    sub_readme_name = "{}/README.md".format(root)
+    sub_readme_name = f"{root}/README.md"
     with open(sub_readme_name, 'w') as sub_readme:
-        sub_readme.write("# {}\n\n".format(title))
+        sub_readme.write(f"# {title}\n\n")
         write_root_content(sub_readme, root, title, images, collapse=False)
 
 
@@ -107,11 +107,8 @@ def write_images_to_file(file, folder):
     for root, _, files in os.walk(folder):
         if invalid_root(root): continue
 
-        images[root] = []
+        images[root] = [filename for filename in files if not ignore_file(filename)]
 
-        for filename in files:
-            if ignore_file(filename): continue
-            images[root].append(filename)
         images[root].sort(key=str.lower)
     for root in sorted(images.keys()):
         process_root(file, root, images[root])
@@ -122,13 +119,13 @@ with open('config.yml') as config:
 
     filename = configurations['filename']
     with open(filename, 'w') as file:
-        file.write("# {}\n\n".format(configurations['title']))
-        file.write("{}\n\n".format(configurations['description']))
+        file.write(f"# {configurations['title']}\n\n")
+        file.write(f"{configurations['description']}\n\n")
 
         for section_name in sorted(configurations['sections']):
             section = configurations['sections'][section_name]
 
-            file.write("## {}\n\n".format(section['title']))
-            file.write("{}\n\n".format(section['info']))
+            file.write(f"## {section['title']}\n\n")
+            file.write(f"{section['info']}\n\n")
 
         write_images_to_file(file, '.')
