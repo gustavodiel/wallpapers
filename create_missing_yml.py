@@ -4,11 +4,11 @@ from PIL import Image
 
 def process_file(root, file):
   file_name = ''.join(file.split('.')[:-1])
-  file_yml = "{}/{}.yml".format(root, file_name)
-  original_file = "{}/{}".format(root, file)
-  
+  file_yml = f"{root}/{file_name}.yml"
+  original_file = f"{root}/{file}"
+
   if not os.path.isfile(file_yml):
-    print("Created {}!".format(file_yml))
+    print(f"Created {file_yml}!")
     generate_default_yml(file_yml, original_file)
 
 
@@ -16,7 +16,7 @@ def default_info(file):
   file_format = file.split('.')[-1]
   with Image.open(file) as img:
     width, height = img.size
-  return "Size: ({} x {})\\n\\nFormat: {}".format(width, height, file_format)
+  return f"Size: ({width} x {height})\\n\\nFormat: {file_format}"
 
 
 def generate_default_yml(file, original_file):
